@@ -5,13 +5,10 @@ const About = () => {
         <div>
             <h1 className='mainHeader' >About Me</h1>
             <div className='allText' >
-                <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ipsum dolor sit amet consectetur. Ac tincidunt vitae semper quis lectus. Interdum varius sit amet mattis. Turpis egestas sed tempus urna.</div>
+                <div>Curabitur bibendum libero eget ipsum facilisis facilisis. Mauris placerat augue magna, nec hendrerit ex consequat in. Vestibulum maximus sit amet eros at ultrices. Proin rhoncus erat eget dolor sodales commodo. Aliquam porttitor justo sed laoreet tempor. Aliquam erat volutpat. Aenean ut tristique ligula.</div>
             </div>
             <div className='allText' >
-                <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In egestas erat imperdiet sed euismod. Libero id faucibus nisl tincidunt eget nullam. Dolor sed viverra ipsum nunc aliquet bibendum. At consectetur lorem donec massa.</div>
-            </div>
-            <div className='allText'  >
-                <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nisi vitae suscipit tellus mauris a diam maecenas sed. Vel orci porta non pulvinar neque laoreet suspendisse interdum. Ornare massa eget egestas purus viverra accumsan. Iaculis eu non diam phasellus vestibulum lorem sed.</div>
+                <div>Nulla faucibus faucibus tortor at egestas. Duis vel massa congue, euismod purus ut, malesuada massa. In hac habitasse platea dictumst. Quisque quam arcu, feugiat nec nibh quis, iaculis laoreet lacus. Quisque dignissim ac tortor in ullamcorper.</div>
             </div>
         </div>
     )
