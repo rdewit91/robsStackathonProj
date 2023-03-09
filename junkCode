@@ -1,0 +1,149 @@
+// import React from 'react';
+// import AppRoutes from './AppRoutes.js';
+// import NavBar from './NavBar.js';
+
+// function App() {
+//   return (
+//     <div>
+//       <NavBar />
+//       <AppRoutes />
+//     </div>
+//   );
+// }
+
+// export default App;
+
+// import React from 'react';
+// import { Route, Routes } from 'react-router-dom';
+// import {Main, About, Exp, Edu, Skills, Proj, Contact} from '../components/Index'
+
+
+// const AppRoutes = () => {
+//     return (
+//         <div>
+//             <Routes>
+//                 <Route path='/*' elemetn={<Main />} />
+//                 <Route path='/about' elemetn={<About />} />
+//                 <Route path='exp' elemetn={<Exp />} />
+//                 <Route path='edu' elemetn={<Edu />} />
+//                 <Route path='skills' elemetn={<Skills />} />
+//                 <Route path='projects' elemetn={<Proj />} />
+//                 <Route path='contact' elemetn={<Contact />} />
+//             </Routes>
+//         </div>
+//     )
+// }
+
+// export default AppRoutes;
+
+// import React from "react";
+// import { NavLink } from "react-router-dom";
+
+// const NavBar = () => {
+//     return (
+//         <div id="navbar" className="row" >
+//             <NavLink to="/about" className="active">About Me</NavLink>
+//             <NavLink to="/exp" className="active">My Experiance</NavLink>
+//             <NavLink to="/edu" className="active">My Education</NavLink>
+//             <NavLink to="/skills" className="active">My Skills</NavLink>
+//             <NavLink to="/projects" className="active">My Projects</NavLink>
+//             <NavLink to="/contact" className="active">Contact Me</NavLink>
+//         </div>
+//     )
+// }
+
+// export default NavBar
+
+// export {default as Main} from './Main';
+// export {default as About} from './About';
+// export {default as Exp} from './Exp';
+// export {default as Edu} from './Edu';
+// export {default as Skills} from './Skills';
+// export {default as Proj} from './Proj';
+// export {default as Contact} from './Contact';
+
+// import React from "react";
+
+// const Main = () => {
+//     return (
+//         <div>
+//             <h1>Welcome</h1>
+//         </div>
+//     )
+// }
+
+// export default Main
+
+// import React from "react";
+
+// const About = () => {
+//     return (
+//         <div>
+//             <h1>About Me</h1>
+//         </div>
+//     )
+// }
+
+// export default About
+
+// import React from "react";
+
+// const Exp = () => {
+//     return (
+//         <div>
+//             <h1>Contact Me!</h1>
+//         </div>
+//     )
+// }
+
+// export default Exp
+
+// import React from "react";
+
+// const Edu = () => {
+//     return (
+//         <div>
+//             <h1>Heres my Education</h1>
+//         </div>
+//     )
+// }
+
+// export default Edu
+
+// import React from "react";
+
+// const Skills = () => {
+//     return (
+//         <div>
+//             <h1>Here Are my Skills</h1>
+//         </div>
+//     )
+// }
+
+// export default Skills
+
+// import React from "react";
+
+// const Proj = () => {
+//     return (
+//         <div>
+//             <h1>Here are my Projects</h1>
+//         </div>
+//     )
+// }
+
+// export default Proj
+
+// import React from "react";
+
+// const Contact = () => {
+//     return (
+//         <div>
+//             <h1>Contact Me!</h1>
+//         </div>
+//     )
+// }
+
+// export default Contact
+
+

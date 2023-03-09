@@ -22,6 +22,9 @@
     "webpack-cli": "^5.0.1"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "lorem-ipsum": "^2.0.8",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.8.2"
   }
 }
